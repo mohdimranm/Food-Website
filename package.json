@@ -1,0 +1,15 @@
+{
+  "name": "killerwebsite",
+  "version": "1.0.0",
+  "description": "Website build using HTML&CSS",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "imran",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.0-beta.1"
+  }
+}
