@@ -1,0 +1,7 @@
+/* for small phones */
+@media only screen and (max-width: 480px) {
+}
+
+/* for smaller than ipad */
+@media only screen and (max-width: 767px) {
+} ;
